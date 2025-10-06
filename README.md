@@ -67,9 +67,7 @@ project-root/
 ├─ check_data.ipynb      # Jupyter notebook for data exploration
 ├─ requirements.txt      # (optional) pinned dependencies
 ├─ README.md             # This file
-├─ data/
-│  └─ world_stock.csv    # place your Kaggle CSV here (or upload in UI)
-└─ assets/               # (optional) logos, icons, additional resources
+├─ World-Stock-Prices-Dataset.csv
 ```
 
 **Notes**
